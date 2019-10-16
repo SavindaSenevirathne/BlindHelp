@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\28ffbc8610273c92b271570f7ad366fa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8bb42363d68e136d31816ae2a2524d80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e3439ee90b55b7d26a50572f262a8249\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\ac80a6490839d8c98acaf02264c4d863\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a0786910f804c788dfea8284d594c817\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb2d2307e2902b9512cfcf301293146d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2a5b5296fcd0d78ed21dd09696030274\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\350d1afcecf1b9a54c426650eb675551\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ec9f53a1c9008d160ba4397ed7f99112\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79b8b3114640f4c883f6a300631d4224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba543c169532b74b17aa49a718e04568\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\dfcd49338ae5fd975babbcfcd78e1a21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0b5efd5ca608120bd3af41bb6b64b23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\197476cd66505bcec777d1cad56b0367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\599336550616f3e6a66b487ea5e8e6e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7afb4371cedb5b28bd4070c3e4633e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4653db25d124b6a0fbca49d5b2663b23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\78e911d46c9d23a29260617c04ee1e04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8cb33c0d51db05fb814b6dadc986ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\529262b088eb2177282339e0e3507665\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\237be96fec1d36249eec787468603452\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d471670465c94d49efd265851d7c8e74\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a1bb3735bae88f2160d2291cd272ac8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1db4cf48df4792d891705fd3737d2ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea13c119721ae786a141a2515253a1ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9b1542e3e2dffbeb752f58ff021e77ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f8e18249da8e7ab2458ef8d22d7fa7e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\044d92e5e4b42285d3cf398d37e69e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ab391a02284a669f1da67264cff90d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af8ee4d215475ae4c691b5e28d3fd075\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dded6e89665ca856b0e30574c3160836\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b07ab142c7ccba751caa176d6da5a456\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4cec347dcf5ed30181746df7fbc9bbcb\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\62465af92b0ee703b3dacc6836a05345\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.pedromassango:doubleClick:3.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\doubleClick-3.0.aar\83a799166a2cee513656690e25363392\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:26:5-44:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\28ffbc8610273c92b271570f7ad366fa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\28ffbc8610273c92b271570f7ad366fa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e3439ee90b55b7d26a50572f262a8249\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e3439ee90b55b7d26a50572f262a8249\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d471670465c94d49efd265851d7c8e74\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d471670465c94d49efd265851d7c8e74\AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\62465af92b0ee703b3dacc6836a05345\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\62465af92b0ee703b3dacc6836a05345\AndroidManifest.xml:8:5-20
+MERGED from [com.github.pedromassango:doubleClick:3.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\doubleClick-3.0.aar\83a799166a2cee513656690e25363392\AndroidManifest.xml:11:5-13:38
+MERGED from [com.github.pedromassango:doubleClick:3.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\doubleClick-3.0.aar\83a799166a2cee513656690e25363392\AndroidManifest.xml:11:5-13:38
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:30:9-45
+activity#com.maverick.android.blindhelp.SplashActivity
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:32:9-38:20
+	android:theme
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:32:80-136
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:32:19-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.maverick.android.blindhelp.MainActivity
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:39:9-40:83
+	android:theme
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:39:19-63
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:40:13-71
+activity#com.maverick.android.blindhelp.CameraActivity
+ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:41:9-43:20
+	android:label
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:42:19-51
+	android:name
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml:41:19-79
+uses-sdk
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\28ffbc8610273c92b271570f7ad366fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\28ffbc8610273c92b271570f7ad366fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8bb42363d68e136d31816ae2a2524d80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8bb42363d68e136d31816ae2a2524d80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e3439ee90b55b7d26a50572f262a8249\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e3439ee90b55b7d26a50572f262a8249\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\ac80a6490839d8c98acaf02264c4d863\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\ac80a6490839d8c98acaf02264c4d863\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a0786910f804c788dfea8284d594c817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a0786910f804c788dfea8284d594c817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb2d2307e2902b9512cfcf301293146d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb2d2307e2902b9512cfcf301293146d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2a5b5296fcd0d78ed21dd09696030274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2a5b5296fcd0d78ed21dd09696030274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\350d1afcecf1b9a54c426650eb675551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\350d1afcecf1b9a54c426650eb675551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ec9f53a1c9008d160ba4397ed7f99112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ec9f53a1c9008d160ba4397ed7f99112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79b8b3114640f4c883f6a300631d4224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79b8b3114640f4c883f6a300631d4224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba543c169532b74b17aa49a718e04568\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba543c169532b74b17aa49a718e04568\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\dfcd49338ae5fd975babbcfcd78e1a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\dfcd49338ae5fd975babbcfcd78e1a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0b5efd5ca608120bd3af41bb6b64b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0b5efd5ca608120bd3af41bb6b64b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\197476cd66505bcec777d1cad56b0367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\197476cd66505bcec777d1cad56b0367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\599336550616f3e6a66b487ea5e8e6e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\599336550616f3e6a66b487ea5e8e6e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7afb4371cedb5b28bd4070c3e4633e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7afb4371cedb5b28bd4070c3e4633e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4653db25d124b6a0fbca49d5b2663b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4653db25d124b6a0fbca49d5b2663b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\78e911d46c9d23a29260617c04ee1e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\78e911d46c9d23a29260617c04ee1e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8cb33c0d51db05fb814b6dadc986ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e8cb33c0d51db05fb814b6dadc986ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\529262b088eb2177282339e0e3507665\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\529262b088eb2177282339e0e3507665\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\237be96fec1d36249eec787468603452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\237be96fec1d36249eec787468603452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7653c5918b0cebbe3dc930d12924866b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d471670465c94d49efd265851d7c8e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d471670465c94d49efd265851d7c8e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a1bb3735bae88f2160d2291cd272ac8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a1bb3735bae88f2160d2291cd272ac8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1db4cf48df4792d891705fd3737d2ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1db4cf48df4792d891705fd3737d2ac1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea13c119721ae786a141a2515253a1ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea13c119721ae786a141a2515253a1ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9b1542e3e2dffbeb752f58ff021e77ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9b1542e3e2dffbeb752f58ff021e77ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f8e18249da8e7ab2458ef8d22d7fa7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f8e18249da8e7ab2458ef8d22d7fa7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\044d92e5e4b42285d3cf398d37e69e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\044d92e5e4b42285d3cf398d37e69e7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ab391a02284a669f1da67264cff90d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ab391a02284a669f1da67264cff90d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af8ee4d215475ae4c691b5e28d3fd075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af8ee4d215475ae4c691b5e28d3fd075\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dded6e89665ca856b0e30574c3160836\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dded6e89665ca856b0e30574c3160836\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b07ab142c7ccba751caa176d6da5a456\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b07ab142c7ccba751caa176d6da5a456\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4cec347dcf5ed30181746df7fbc9bbcb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4cec347dcf5ed30181746df7fbc9bbcb\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\62465af92b0ee703b3dacc6836a05345\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\62465af92b0ee703b3dacc6836a05345\AndroidManifest.xml:5:5-6:41
+MERGED from [com.github.pedromassango:doubleClick:3.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\doubleClick-3.0.aar\83a799166a2cee513656690e25363392\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pedromassango:doubleClick:3.0] C:\Users\savin\.gradle\caches\transforms-1\files-1.1\doubleClick-3.0.aar\83a799166a2cee513656690e25363392\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		MERGED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freelancing\Android\BlindHELP\app\src\main\AndroidManifest.xml
